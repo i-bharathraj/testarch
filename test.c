@@ -1,3 +1,7 @@
+/*
+ * Author: sankaran.raman@gmail.com
+ * Version: 1.0
+ * */
 #include <stdio.h>
 
 /*Print system architecture size*/
