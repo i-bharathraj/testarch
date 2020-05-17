@@ -8,5 +8,6 @@
 int main()
 {
 	printf("%ld is sizeof pointer\n", sizeof(void*));
+	printf("Thanks for teaching god\n");
 	return 0;
 }
